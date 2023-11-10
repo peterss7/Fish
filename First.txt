@@ -1,0 +1,41 @@
+{
+  "Fish Tank Care Guide": {
+    "Lighting": {
+      "Curtains": {
+        "Easiest": "Leave them open all the time so they get light when the sun comes up and you don't have to worry about opening them early ",
+        "What I do": "i open them by 9am every day"
+      },
+      "LED light": [
+        "Ten hours a day max",
+        "I do noon to 11 (too long because i suck)",
+        "If you won't be home for a day, either leave the curtains open or leave the office light on, i guess"
+      ],
+      "It's important": [
+        "Plants need light",
+        "Too much light causes algae bloom",
+        "Keeps them in a routine"
+      ]
+    },
+    "Feeding": {
+      "Amount": "What i showed you",
+      "Frequency": "Twice a day, 12 hours apart"
+    },
+    "Health and wellness": {
+      "Look at them": [
+        "Just two minutes a day",
+        "Maybe sure there are two little fish and the betta are alive",
+        "Don't worry, you'll never see the pleco",
+        {
+          "Check sensors": [
+            "Ammonia should be 0",
+            "Ph should be between 6.5 and 7.5",
+            "Temperature should be between 78 and 81"
+          ]
+        },
+        "Make sure it's not having a strong smell "
+      ],
+      "Fish should be happy to see you": "If he isn't eating or coming out when you feed him, let me know."
+    },
+    "If something is wrong": "Contact me!"
+  }
+}
